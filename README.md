@@ -61,7 +61,7 @@ Common acceptor page types:
 - Content that needs more visibility
 
 **The opposite approach also works:**
-Donors can be high-traffic pages while acceptors are a vast amount of low-performance pages. This helps distribute link equity across many pages that need attention.
+Acceptors can be high-traffic pages while donors are a vast number of low-performance pages. This helps distribute link equity across many pages that need attention.
 
 You can use the same CSV file for both acceptors and donors if you want any page to potentially link to any other page.
 
